@@ -7,8 +7,10 @@
   - [Github工具](#github工具)
     - [TrafficMonitor](#trafficmonitor)
     - [Mem Reduct](#mem-reduct)
+    - [Twinkle Tray](#twinkle-tray)
     - [Deskflow](#deskflow)
   - [编程工具](#编程工具)
+    - [SourceGit](#sourcegit)
 
 [toc]
 
@@ -48,6 +50,13 @@
 
 > 轻量级实时内存管理应用程序，用于监视和清理计算机上的系统内存。
 
+安装包
+
+### [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray)
+
+> 从系统托盘轻松管理Windows中显示器的亮度
+
+安装包
 
 ### [Deskflow](https://github.com/deskflow/deskflow)
 
@@ -57,5 +66,10 @@ Synergy的开源社区版
 
 ## 编程工具
 
+### [SourceGit](SourceGit)
 
+> Git GUI工具
+
+跨平台
+免安装
 
