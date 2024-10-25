@@ -10,11 +10,16 @@
     - [Mem Reduct](#mem-reduct)
     - [Twinkle Tray](#twinkle-tray)
     - [Deskflow](#deskflow)
+  - [文本编辑](#文本编辑)
+    - [Sublime Text](#sublime-text)
   - [编程工具](#编程工具)
     - [SourceGit](#sourcegit)
+    - [\[Sublime Merge\](Sublime Merge)](#sublime-mergesublime-merge)
+    - [\[Sourcetree logo\](Sourcetree logo)](#sourcetree-logosourcetree-logo)
 
 [toc]
 
+所有资源来自互联网，侵权请联系删除。
 
 ## 系统软件
 
@@ -25,7 +30,7 @@
 
 [Bandizip 6](https://www.bandisoft.com/bandizip/old/6/)
 
-资源链接: [Bandizip 历史版本](https://github.com/FlatWhite233/bandizip-6.x)
+参考资源: [Bandizip 历史版本](https://github.com/FlatWhite233/bandizip-6.x)
 
 ### [Honeyview](https://www.bandisoft.com/honeyview/)
 > 图像查看器
@@ -75,6 +80,18 @@
 
 Synergy的开源社区版
 
+## 文本编辑
+
+### [Sublime Text](https://www.sublimetext.com/)
+
+[下载](https://www.sublimetext.com/download)
+
+安装版
+
+便携版
+
+[SublimeText 4.4169 汉化特别版 - 果核剥壳](https://www.ghxi.com/sublimetext4.html)
+
 ## 编程工具
 
 ### [SourceGit](SourceGit)
@@ -83,4 +100,17 @@ Synergy的开源社区版
 
 跨平台
 免安装
+
+### [Sublime Merge](Sublime Merge)
+
+> Git GUI工具
+
+跨平台
+免安装
+
+### [Sourcetree logo](Sourcetree logo)
+
+> Git GUI工具
+> Windows Mac
+安装包
 
