@@ -2,8 +2,9 @@
 - [share\_software](#share_software)
   - [系统软件](#系统软件)
     - [Bandizip](#bandizip)
-    - [Honeyview ](#honeyview-)
+    - [Honeyview](#honeyview)
     - [BandiView](#bandiview)
+    - [SumatraPDF](#sumatrapdf)
   - [Github工具](#github工具)
     - [TrafficMonitor](#trafficmonitor)
     - [Mem Reduct](#mem-reduct)
@@ -26,7 +27,7 @@
 
 资源链接: [Bandizip 历史版本](https://github.com/FlatWhite233/bandizip-6.x)
 
-### [Honeyview ](https://www.bandisoft.com/honeyview/)
+### [Honeyview](https://www.bandisoft.com/honeyview/)
 > 图像查看器
 
 > 已停止更新，改为BandiView
@@ -38,6 +39,16 @@
 > BandiView 是 Honeyview 的后续图像查看器，它继承了其前身的所有酷炫功能，并得到了进一步的改进。
 
 分为试用版和专业版。专业版需要付费不含广告。
+
+### [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader)
+
+[官网下载](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
+
+[Github](https://github.com/sumatrapdfreader/sumatrapdf)
+
+安装包(Installer)
+
+便携版(Portable version)
 
 ## Github工具
 
