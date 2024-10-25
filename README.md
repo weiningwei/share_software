@@ -47,6 +47,8 @@
 
 ### [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader)
 
+> pdf阅读器
+
 [官网下载](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
 
 [Github](https://github.com/sumatrapdfreader/sumatrapdf)
