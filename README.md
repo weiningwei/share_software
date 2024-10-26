@@ -17,6 +17,7 @@
   - [文本编辑](#文本编辑)
     - [Sublime Text](#sublime-text)
     - [MarkText](#marktext)
+    - [EmEditor](#emeditor)
   - [编程工具](#编程工具)
     - [SourceGit](#sourcegit)
     - [Sublime Merge](#sublime-merge)
@@ -150,6 +151,13 @@ Synergy的开源社区版
 
 [MarkText中文特别版/汉化版
 ](https://github.com/topabomb/marktext-specialedition)
+
+### [EmEditor](https://www.emeditor.com/)
+
+文本编辑，可编辑大文件，快速查找和替换
+
+便携版
+[download](https://www.emeditor.com/download/)
 
 ## 编程工具
 
