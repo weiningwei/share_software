@@ -6,6 +6,9 @@
     - [BandiView](#bandiview)
     - [SumatraPDF](#sumatrapdf)
     - [Potplayer](#potplayer)
+    - [Geek Uninstaller](#geek-uninstaller)
+    - [Snipaste](#snipaste)
+    - [PixPin](#pixpin)
   - [Github工具](#github工具)
     - [TrafficMonitor](#trafficmonitor)
     - [Mem Reduct](#mem-reduct)
@@ -70,6 +73,32 @@
 - [PotPlayer中文网](https://potplayer.org/category-3.html)
 
 支持便携版
+
+### [Geek Uninstaller](https://geekuninstaller.com/)
+
+> 软件卸载工具
+>
+
+便携版
+
+### [Snipaste](https://www.snipaste.com/)
+
+> 截图&贴图工具
+> 无OCR
+
+便携版
+
+### [PixPin](https://pixpinapp.com/)
+
+> Snipaste 替代品
+>
+> 提供OCR
+>
+
+提供便携版
+
+[便携版下载](https://txc.qq.com/products/614512)
+
 
 ## Github工具
 
