@@ -9,6 +9,7 @@
     - [Geek Uninstaller](#geek-uninstaller)
     - [Snipaste](#snipaste)
     - [PixPin](#pixpin)
+    - [Listary](#listary)
   - [Github工具](#github工具)
     - [TrafficMonitor](#trafficmonitor)
     - [Mem Reduct](#mem-reduct)
@@ -85,9 +86,11 @@
 ### [Snipaste](https://www.snipaste.com/)
 
 > 截图&贴图工具
+>
 > 无OCR
 
 便携版
+
 
 ### [PixPin](https://pixpinapp.com/)
 
@@ -100,6 +103,15 @@
 
 [便携版下载](https://txc.qq.com/products/614512)
 
+
+### [Listary](https://www.listary.com/)
+
+> 文件搜索
+> 快速定位文件夹 Ctrl + G(非常好用 强烈推荐)
+
+Listary 6新版，使用时暂用CPU/内存很大
+
+可使用Listary 5便携版
 
 ## Github工具
 
