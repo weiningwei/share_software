@@ -14,8 +14,8 @@
     - [Sublime Text](#sublime-text)
   - [编程工具](#编程工具)
     - [SourceGit](#sourcegit)
-    - [\[Sublime Merge\](Sublime Merge)](#sublime-mergesublime-merge)
-    - [\[Sourcetree logo\](Sourcetree logo)](#sourcetree-logosourcetree-logo)
+    - [Sublime Merge](#sublime-merge)
+    - [Sourcetree](#sourcetree)
 
 [toc]
 
@@ -96,21 +96,21 @@ Synergy的开源社区版
 
 ## 编程工具
 
-### [SourceGit](SourceGit)
+### [SourceGit](https://github.com/sourcegit-scm/sourcegit)
 
 > Git GUI工具
 
 跨平台
 免安装
 
-### [Sublime Merge](Sublime Merge)
+### [Sublime Merge](https://www.sublimemerge.com/)
 
 > Git GUI工具
 
 跨平台
 免安装
 
-### [Sourcetree logo](Sourcetree logo)
+### [Sourcetree](https://www.sourcetreeapp.com/)
 
 > Git GUI工具
 > Windows Mac
