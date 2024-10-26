@@ -101,18 +101,24 @@ Synergy的开源社区版
 > Git GUI工具
 
 跨平台
+
 免安装
 
 ### [Sublime Merge](https://www.sublimemerge.com/)
 
 > Git GUI工具
+> 
+> 跨平台
 
-跨平台
+
+
 免安装
 
 ### [Sourcetree](https://www.sourcetreeapp.com/)
 
 > Git GUI工具
-> Windows Mac
+> 
+> 支持 Windows Mac
+
 安装包
 
