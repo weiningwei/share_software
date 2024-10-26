@@ -5,6 +5,7 @@
     - [Honeyview](#honeyview)
     - [BandiView](#bandiview)
     - [SumatraPDF](#sumatrapdf)
+    - [Potplayer](#potplayer)
   - [Github工具](#github工具)
     - [TrafficMonitor](#trafficmonitor)
     - [Mem Reduct](#mem-reduct)
@@ -12,6 +13,7 @@
     - [Deskflow](#deskflow)
   - [文本编辑](#文本编辑)
     - [Sublime Text](#sublime-text)
+    - [MarkText](#marktext)
   - [编程工具](#编程工具)
     - [SourceGit](#sourcegit)
     - [Sublime Merge](#sublime-merge)
@@ -57,6 +59,18 @@
 
 便携版(Portable version)
 
+### [Potplayer](https://potplayer.daum.net/?lang=zh_CN)
+
+> 视频播放工具
+>
+
+资源链接
+- [PotPlayer中文网
+](http://www.potplayercn.com/download)
+- [PotPlayer中文网](https://potplayer.org/category-3.html)
+
+支持便携版
+
 ## Github工具
 
 ### [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
@@ -94,6 +108,20 @@ Synergy的开源社区版
 
 [SublimeText 4.4169 汉化特别版 - 果核剥壳](https://www.ghxi.com/sublimetext4.html)
 
+### [MarkText](https://github.com/marktext/marktext)
+
+> 一个简单而优雅的开源 Markdown 编辑器，专注于速度和可用性。
+> 
+> 开源 多平台
+
+便携版(Portable version)
+
+[marktext-chinese-language-pack
+](https://github.com/chinayangxiaowei/marktext-chinese-language-pack)
+
+[MarkText中文特别版/汉化版
+](https://github.com/topabomb/marktext-specialedition)
+
 ## 编程工具
 
 ### [SourceGit](https://github.com/sourcegit-scm/sourcegit)
@@ -109,8 +137,6 @@ Synergy的开源社区版
 > Git GUI工具
 > 
 > 跨平台
-
-
 
 免安装
 
