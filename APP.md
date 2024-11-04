@@ -3,11 +3,14 @@
 - [APP](#app)
   - [gkd](#gkd)
   - [SKIP](#skip)
+  - [Breezy Weather](#breezy-weather)
 
 
 [toc]
 
 # APP
+
+主要收集开源的APP
 
 ## [gkd](https://github.com/gkd-kit/gkd)
 
@@ -23,5 +26,9 @@ https://github.com/Adpro-Team/GKD_subscription
 
 ## [SKIP](https://github.com/GuoXiCheng/SKIP)
 > 自动跳过APP开屏广告
+
+## [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
+
+> 天气预报
 
 
