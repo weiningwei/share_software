@@ -10,6 +10,7 @@
     - [Snipaste](#snipaste)
     - [PixPin](#pixpin)
     - [Listary](#listary)
+    - [LocalSend](#localsend)
   - [Github工具](#github工具)
     - [TrafficMonitor](#trafficmonitor)
     - [Mem Reduct](#mem-reduct)
@@ -112,6 +113,12 @@
 Listary 6新版，使用时暂用CPU/内存很大
 
 可使用Listary 5便携版
+
+### [LocalSend](https://github.com/localsend/localsend)
+
+局域网文件共享
+多平台
+便携版
 
 ## Github工具
 
